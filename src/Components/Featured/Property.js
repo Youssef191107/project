@@ -21,7 +21,7 @@ const Property = () => {
 
   return (
     <div>
-      <div className="relative">
+      <div className="relative mb-14">
         <div className="flex items-center justify-between w-full p-4">
           <div>
           <div className="flex items-center">

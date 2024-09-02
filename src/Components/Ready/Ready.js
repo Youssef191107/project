@@ -11,7 +11,7 @@ import Rectangle20 from "../../images/Rectangle20.png";
 const Ready = () => {
   return (
     <Fragment>
-      <section className="flex w-5/6 items-center justify-between mx-auto mt-44">
+      <section className="flex w-5/6 items-center justify-between mx-auto mt-44 mb-12">
         <div className="flex-col">
           <div className="flex  items-center">
             <div className="bg-yellow-400 w-8 h-[1.5px] mr-2"> </div>
@@ -53,7 +53,7 @@ const Ready = () => {
                     <p className="font-medium">2 Bedrooms</p>
                   </div>
                 </div>
-                <div className=" flex  w-[250px] mt-8 h-1 bg-[#003cff] mx-auto"></div>
+                <div className=" flex  w-[250px] mt-8 mb-8 h-1 bg-[#888b978b] mx-auto"></div>
                 <div className="flex items-center w-[440px]">
                     <div className="flex items-center gap-3 mr-4">
                         <img src={Ellipse7}/>

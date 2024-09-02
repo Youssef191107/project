@@ -13,7 +13,7 @@ import Rectangle27 from "../../images/Rectangle27.png";
 const Subscribe = () => {
   return (
     <Fragment>
-      <div className="w-5/6 flex justify-center items-center mx-auto">
+      <div className="w-5/6 flex justify-center items-center mx-auto mt-[50px] mb-[150px]">
         <div className="bg-[url('/joe.png')] bg-cover w-[1200px] h-[312px] relative">
           <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
             <div className="flex items-center justify-center w-[422px] mx-auto h-[96px] font-semibold text-4xl text-[#1B1C57;]">
@@ -33,12 +33,12 @@ const Subscribe = () => {
           </div>
           <img src={Ellipse6} alt="Ellipse6" className="absolute top-[71px] left-[204px]" />
           <img src={Ellipse7} alt="Ellipse7" className="absolute top-[173px] left-[67px] " />
-          <img src={Ellipse8} alt="Ellipse8" className="absolute top-[143px] left-[964px]" />
-          <img src={Ellipse9} alt="Ellipse9" className="absolute top-[107px] left-[1082px]" />
+          <img src={Ellipse8} alt="Ellipse8" className="absolute top-[143px] left-[864px]" />
+          <img src={Ellipse9} alt="Ellipse9" className="absolute top-[107px] left-[982px]" />
           <img src={Rectangle12} alt="Rectangle12" className="absolute top-[38px] left-[44px] w-[81px] h-[81px]  " />
-          <img src={Rectangle26} alt="Rectangle26" className="absolute top-[44px]  left-[930px]" />
+          <img src={Rectangle26} alt="Rectangle26" className="absolute top-[44px]  left-[830px]" />
           <img src={Rectangle25} alt="Rectangle25" className="absolute top-[178PX]  left-[195PX]" />
-          <img src={Rectangle27} alt="Rectangle27" className="absolute top-[197px] left-[1072px]" />
+          <img src={Rectangle27} alt="Rectangle27" className="absolute top-[197px] left-[972px]" />
 
 
         </div>
